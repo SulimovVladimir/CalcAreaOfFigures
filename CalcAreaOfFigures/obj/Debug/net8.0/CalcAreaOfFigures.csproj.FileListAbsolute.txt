@@ -1,0 +1,11 @@
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\bin\Debug\net8.0\CalcAreaOfFigures.deps.json
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\bin\Debug\net8.0\CalcAreaOfFigures.dll
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\bin\Debug\net8.0\CalcAreaOfFigures.pdb
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.AssemblyInfo.cs
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.dll
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\refint\CalcAreaOfFigures.dll
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.pdb
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\ref\CalcAreaOfFigures.dll
