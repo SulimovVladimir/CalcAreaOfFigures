@@ -1,10 +1,17 @@
 ﻿namespace CalcAreaOfFigures
 {
-    public class Circle
+    internal class Circle : IFigure
     {
-        public double CalcArea(double radius) 
+        double radius;
+
+        public Circle(double radius) 
+        { 
+            this.radius = radius; 
+        }
+
+        public double CalcArea() 
         {
-            return (Math.PI)*Math.Pow(radius, 2);
+            return Math.Round((Math.PI)*Math.Pow(radius, 2),2);
         }
     }
 }

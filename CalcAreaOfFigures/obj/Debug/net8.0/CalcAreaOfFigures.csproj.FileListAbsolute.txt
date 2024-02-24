@@ -9,3 +9,4 @@ C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net
 C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\refint\CalcAreaOfFigures.dll
 C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.pdb
 C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\ref\CalcAreaOfFigures.dll
+C:\Users\Sulimovy\source\repos\CalcAreaOfFigures\CalcAreaOfFigures\obj\Debug\net8.0\CalcAreaOfFigures.sourcelink.json
